@@ -495,7 +495,9 @@ header .navbar a:hover{
 .footer .credit span{
   color:var(--pink);
 }
-
+#mail{
+  text-transform: none;
+}
 
 
 /* media queries  */
