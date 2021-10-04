@@ -39,6 +39,9 @@ body{
   padding:3rem 7%;
 }
 
+.l{
+  text-transform: none;
+}
 section{
   padding:2rem 7%;
 }
@@ -295,7 +298,7 @@ header .navbar a:hover{
 }
 
 .price .box .amount span{
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 .price .box  ul{
