@@ -42,6 +42,7 @@ body{
 .l{
   text-transform: none;
 }
+
 section{
   padding:2rem 7%;
 }
@@ -100,7 +101,7 @@ header .logo span{
   color:var(--pink);
 }
 
-header .navbar a{
+header .navbar a,i{
   margin-left: 2rem;
   font-size: 2rem;
   color:#333;
@@ -109,6 +110,14 @@ header .navbar a{
 header .navbar a:hover{
   color:var(--pink);
 }
+header .navbar a i{
+    font-size: 30px;
+    color: var(--violet);
+}
+header .navbar i:hover{
+  color:red;
+}
+
 
 #menu{
   font-size: 2.5rem;
