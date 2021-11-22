@@ -501,11 +501,11 @@ header .navbar i:hover{
   padding-top: 2rem;
   text-align: center;
   border-top: .1rem solid rgba(0,0,0,.1);
-  color:#666;
+  color:rgb(233, 101, 101);
 }
 
 .footer .credit span{
-  color:var(--pink);
+  color:var(--violet);
 }
 #mail{
   text-transform: none;
